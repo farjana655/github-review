@@ -8,4 +8,6 @@ computer - github
 - ssh key generate
 - ssh public key to github
 4. test
+5. How to reslove merge conflict
+
 
